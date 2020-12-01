@@ -1,4 +1,4 @@
-# Generating POEtry with Tensorflow
+# POEtry generation
 
 Once upon a midnight dreary, as I pondered weak and weary how nice it would be to read *new* poems by one of my favorite poets, Edgar Allan Poe... I decided to use the power of neural networks to generate new poems, based on the style of Poe's original ones.
 
